@@ -7,4 +7,4 @@ Instead of relying on an arbitrary "Dark Energy" scalar field, this script model
 **Key Features:**
 * Algorithmic correlation between local mass density and the expansion rate.
 * Extraction of the Memory Tension Coefficient ($\mu$).
-* Statistical convergence demonstration via the Law of Large Numbers.# Hubble-Memory-Tension
+* Statistical convergence demonstration via the Law of Large Numbers.
